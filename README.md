@@ -1,10 +1,10 @@
 # Codepath-prework
 Swift 1 prework 
-# Prework - *buttonapp prework *
+# Prework - *debounceapp prework *
 
 Submitted by: **Daniel Woldetsadik**
 
-**AquizI** is an app that uses AI to covert notes and PDFs into quizzes. It increases the difficulty each time you answer correctly. If you understand the concept, there is a teach me first mode. If you keep getting a concept wrong, the app review it again starting from the basic and gradually building up. Additional features include timed test and subject based games for study groups. 
+**debounceapp** is an app that changes background colour of screen when a button is pressed. 
 
 Time spent: **1** hours spent in total
 
@@ -29,7 +29,7 @@ Tiktok = the for you page , Trending hastags
 Snapchat = streaks , filters , memories 
     
  
-
+**AquizI** is an app that uses AI to covert notes and PDFs into quizzes. It increases the difficulty each time you answer correctly. If you understand the concept, there is a teach me first mode. If you keep getting a concept wrong, the app review it again starting from the basic and gradually building up. Additional features include timed test and subject based games for study groups. 
 
 ## Notes
 
