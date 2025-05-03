@@ -21,6 +21,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/090428c00d81458a82241071390ee126">
+    </a>
+    <a href="https://www.loom.com/share/090428c00d81458a82241071390ee126">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/090428c00d81458a82241071390ee126-906c74479c8c8d64-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 
 Weather app = animated background , current weather 
